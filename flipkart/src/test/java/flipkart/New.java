@@ -31,7 +31,7 @@ public class New{
 		System.out.println("test case is pass");
 	}else {
 		System.out.println("test case is fail");
-		//push
+		
 	}
 	}
 }
